@@ -17,3 +17,9 @@ EDOPro*
 *.apk
 .DS_Store
 Thumbs.db
+/config/.vs/ProjectSettings.json
+/config/.vs/VSWorkspaceState.json
+/config/.vs/config/FileContentIndex/d31df0a1-3fb3-4115-b556-af5084be21e0.vsidx
+/config/.vs/config/FileContentIndex/read.lock
+/config/.vs/config/v17/.wsuo
+/config/.vs/slnx.sqlite
